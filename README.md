@@ -32,34 +32,34 @@ I make desktop apps, tinker with games, and give my Linux setup a little extra p
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [Server Manager](https://github.com/AriCuteGirl/Server-Manager-GUI)
-A desktop home for setting up and managing private servers for revived games.
+### 🎢 [Theme Park EA Revival](https://github.com/AriCuteGirl/Theme-park-EA-Server)
+Bringing EA's 2012 Theme Park back to life with a server emulator and a modern Android port.
 
-<sub>DESKTOP APP · WINDOWS + LINUX</sub>
+<sub>GAME REVIVAL · ANDROID · SERVER EMULATOR</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 💌 [PupMail](https://github.com/AriCuteGirl/pupmail-site)
-A calm, privacy-friendly email client for Windows and Linux.
+### 🖥️ [Server Manager GUI](https://github.com/AriCuteGirl/Server-Manager-GUI)
+A cozy desktop app to set up, deploy, and manage private servers for revived games.
 
-<sub>EMAIL CLIENT · DOWNLOAD WEBSITE</sub>
+<sub>DESKTOP APP · WINDOWS + LINUX</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Save Guardian](https://github.com/AriCuteGirl/save-guardian)
-A little extra care for your progress: a save-game manager for Steam and non-Steam games.
+### 🐾 [PupBerg](https://github.com/AriCuteGirl/PupBerg)
+A Goldberg Steam Emulator fork with a puppy-themed overlay, custom themes, and ZeroTier support.
 
-<sub>GAME TOOLS · RUST · EGUI</sub>
+<sub>GAME TOOLS · C++ · STEAM OVERLAY</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌲 [Gravity Falls Rice](https://github.com/AriCuteGirl/gravity-falls-umbriel-rice)
-A portable Umbriel + Noctalia setup with Catppuccin colors and a Gravity Falls terminal preview.
+### 🌲 [Gravity Falls Umbriel Rice](https://github.com/AriCuteGirl/gravity-falls-umbriel-rice)
+A portable Umbriel + Noctalia desktop with Catppuccin colors and a little Gravity Falls magic.
 
 <sub>LINUX CUSTOMIZATION · SHELL</sub>
 
