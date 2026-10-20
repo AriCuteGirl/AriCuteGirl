@@ -32,6 +32,42 @@ I make desktop apps, tinker with games, and give my Linux setup a little extra p
 <tr>
 <td width="50%" valign="top">
 
+### 🏰 [Dobyvatel Revival](https://github.com/AriCuteGirl/Dobyvatel-Revival)
+Bringing the 2019 Android game back online with a Python server emulator and a custom-server Android client.
+
+<sub>GAME REVIVAL · ANDROID · PYTHON</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎢 [Theme Park EA Revival](https://github.com/AriCuteGirl/Theme-park-EA-Server)
+Bringing EA's 2012 Theme Park back to life with a server emulator and a modern Android port.
+
+<sub>GAME REVIVAL · ANDROID · SERVER EMULATOR</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [Surgeon Simulator 2 Private Server](https://github.com/AriCuteGirl/SurgeonSim2-Private-Server)
+Restoring co-op play to Surgeon Simulator 2 with a community-made private server.
+
+<sub>GAME REVIVAL · PC · CO-OP</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [Server Manager GUI](https://github.com/AriCuteGirl/Server-Manager-GUI)
+A cozy desktop app to set up, deploy, and manage private servers for revived games.
+
+<sub>DESKTOP APP · WINDOWS + LINUX</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🐾 [PupBerg](https://github.com/AriCuteGirl/PupBerg)
 A Goldberg Steam Emulator fork with a puppy-themed overlay, custom themes, and ZeroTier support.
 
@@ -44,42 +80,6 @@ A Goldberg Steam Emulator fork with a puppy-themed overlay, custom themes, and Z
 A portable Umbriel + Noctalia desktop with Catppuccin colors and a little Gravity Falls magic.
 
 <sub>LINUX CUSTOMIZATION · SHELL</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖥️ [Server Manager GUI](https://github.com/AriCuteGirl/Server-Manager-GUI)
-A cozy desktop app to set up, deploy, and manage private servers for revived games.
-
-<sub>DESKTOP APP · WINDOWS + LINUX</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏰 [Dobyvatel Revival](https://github.com/AriCuteGirl/Dobyvatel-Revival)
-Bringing the 2019 Android game back online with a Python server emulator and a custom-server Android client.
-
-<sub>GAME REVIVAL · ANDROID · PYTHON</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎢 [Theme Park EA Revival](https://github.com/AriCuteGirl/Theme-park-EA-Server)
-Bringing EA's 2012 Theme Park back to life with a server emulator and a modern Android port.
-
-<sub>GAME REVIVAL · ANDROID · SERVER EMULATOR</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 [Surgeon Simulator 2 Private Server](https://github.com/AriCuteGirl/SurgeonSim2-Private-Server)
-Restoring co-op play to Surgeon Simulator 2 with a community-made private server.
-
-<sub>GAME REVIVAL · PC · CO-OP</sub>
 
 </td>
 </tr>
