@@ -65,6 +65,24 @@ A portable Umbriel + Noctalia desktop with Catppuccin colors and a little Gravit
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏰 [Dobyvatel Revival](https://github.com/AriCuteGirl/Dobyvatel-Revival)
+Bringing the 2019 Android game back online with a Python server emulator and a custom-server Android client.
+
+<sub>GAME REVIVAL · ANDROID · PYTHON</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 [Surgeon Simulator 2 Private Server](https://github.com/AriCuteGirl/SurgeonSim2-Private-Server)
+Restoring co-op play to Surgeon Simulator 2 with a community-made private server.
+
+<sub>GAME REVIVAL · PC · CO-OP</sub>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
